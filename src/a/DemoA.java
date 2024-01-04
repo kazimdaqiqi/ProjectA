@@ -10,10 +10,13 @@ public class DemoA {
 		System.out.println(a+b);
 	}
 	
-
 	// Sprint 2 automation 
 	public static void subtract(int a, int b) {
 		System.out.println(a-b);
 	}
 	
+	// Sprint 2 automation 
+	public static void divide(int a, int b) {
+		System.out.println(a/b);
+	}
 }
